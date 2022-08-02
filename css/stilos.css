@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&family=Inconsolata&family=Noto+Sans:ital,wght@1,700&family=Nunito+Sans:wght@200&family=Nunito:wght@200&family=Open+Sans:wght@300&family=PT+Sans&family=Poppins:ital,wght@1,300&family=Raleway:wght@200&family=Roboto+Mono:wght@200&family=Smooch+Sans:wght@200;600&family=Source+Sans+Pro:wght@200;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&family=Inconsolata&family=Noto+Sans:ital,wght@1,700&family=Nunito+Sans:wght@200&family=Nunito:wght@200&family=Open+Sans:wght@300&family=PT+Sans&family=Poppins:ital,wght@1,300&family=Raleway:wght@200&family=Roboto+Mono:wght@200&family=Smooch+Sans:wght@200;600&family=Source+Sans+Pro:wght@200;600&family=Space+Mono&display=swap');
+
+header{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: -2px;
+    
+}
+body{
+    background: #fff;
+
+}
+.dark{
+    background: #000;
+    color: #fff;
+}
+
+.img{
+    width: 80%;
+}
+.altoPantalla{
+    height: 100vh;
+}
+main{
+    font-family: 'Space Mono', monospace;
+}
+.parr1{
+   
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: -4px;
+}
+button{
+    font-size: 14px;
+}
+svg{
+    cursor: pointer;
+}
+#pFooter{
+    color: rgb(143, 139, 139);
+}
