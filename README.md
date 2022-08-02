@@ -35,14 +35,18 @@
 <!-- OVERVIEW -->
 
 ## Overview
-![capturaPantalla](https://user-images.githubusercontent.com/101194558/182480766-dfda758a-2aec-48b5-a219-e95488d74258.png)
 
+![capturaPantalla](https://user-images.githubusercontent.com/101194558/182480766-dfda758a-2aec-48b5-a219-e95488d74258.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+  En mi repositorio, descargando o clonando el repo
+  y analizandolo con algun editor de texto.
 - What was your experience?
+  Muy bueno, pude reforzar algunos conceptos y practicar boostrap que estoy aprendiendo
 - What have you learned/improved?
+  aprendi como poner el modo oscuro
 - Your wisdom? :)
 
 ### Built With
@@ -58,7 +62,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
-
 
 ## Acknowledgements
 
